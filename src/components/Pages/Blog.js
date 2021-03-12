@@ -1,19 +1,16 @@
 import React from "react";
-
-//** import Image */
-import heroMini from "../../assets/img/hero_mini.svg";
-import blog4 from "../../assets/img/blogs/blog_4.jpg";
-import blog5 from "../../assets/img/blogs/blog_5.jpg";
-import blog6 from "../../assets/img/blogs/blog_6.jpg";
+import { Link } from "react-router-dom";
 import blog1 from "../../assets/img/blogs/blog_1.jpg";
 import blog2 from "../../assets/img/blogs/blog_2.jpg";
 import blog3 from "../../assets/img/blogs/blog_3.jpg";
-
+import blog4 from "../../assets/img/blogs/blog_4.jpg";
+import blog5 from "../../assets/img/blogs/blog_5.jpg";
+import blog6 from "../../assets/img/blogs/blog_6.jpg";
+//** import Image */
+import heroMini from "../../assets/img/hero_mini.svg";
+import Footer1 from "../TemplatesParts/Footer1/Footer1";
 //** Import Template Parts */
 import Navbar2 from "../TemplatesParts/Header2/Navbar2";
-import Footer1 from "../TemplatesParts/Footer1/Footer1";
-
-import { Link } from "react-router-dom";
 
 const Blog = () => {
    return (
