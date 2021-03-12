@@ -1,10 +1,9 @@
 import React from "react";
 import { Link } from "react-router-dom";
+//** CV Link */
+import cv from "../../../assets/cv/Abir-Kumar-Dhar-CV-update.pdf";
 //** Import Image */
 import faviconLight from "../../../assets/favicon-light.png";
-
-//** CV Link */
-import cv from "../../../assets/cv/Abir-Kumar-Dhar-CV.pdf";
 
 const Navbar2 = () => {
    return (

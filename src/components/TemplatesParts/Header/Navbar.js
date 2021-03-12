@@ -1,9 +1,8 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../../../assets/favicon.png";
-
 //** CV Link */
-import cv from "../../../assets/cv/Abir-Kumar-Dhar-CV.pdf";
+import cv from "../../../assets/cv/Abir-Kumar-Dhar-CV-update.pdf";
+import logo from "../../../assets/favicon.png";
 
 const Navbar = () => {
    return (
